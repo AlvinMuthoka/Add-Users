@@ -1,5 +1,5 @@
 # Path to the text file containing users
-$filePath = "C:\path\to\Users.txt"
+$filePath = "C:\path\to\NewUserlist.txt"
 
 # Validate if file exists
 if (Test-Path $filePath) {
